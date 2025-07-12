@@ -1,2 +1,2 @@
 # hello-world-1
-this id description as u know
+this is description as u know
